@@ -322,7 +322,7 @@ nav {
   gap: 40px;
   max-width: 1100px;
   margin: 0 auto;
-  background: rgba(255, 255, 255, 0.85) url("skills3.jpeg") no-repeat center center;
+  background: rgba(255, 255, 255, 0.85) url("skills3.jpg") no-repeat center center;
   background-size: cover;
   backdrop-filter: blur(8px);
   border-radius: 16px;
@@ -613,7 +613,7 @@ nav {
 #education { background:#F7F9FA; }
 .edu-container { max-width:800px; margin:2rem auto; }
 .edu-item {
-  background:rgba(255,255,255,0.85) url("skills3.jpeg") center/cover no-repeat;
+  background:rgba(255,255,255,0.85) url("skills4.jpg") center/cover no-repeat;
   backdrop-filter:blur(8px);
   border-radius:16px; box-shadow:0 8px 20px rgba(0,0,0,0.15);
   padding:2rem; margin-bottom:1rem;
